@@ -1,0 +1,10 @@
+# Site settings
+title: Cassano Ristorante
+email: 
+description: 
+url: http://cassanoristorante.github.io
+github_username: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
